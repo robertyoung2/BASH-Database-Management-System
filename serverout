@@ -1,0 +1,5 @@
+About to create database via create_database.sh
+About to create table via create_table.sh
+About to insert into table via insert.sh
+About to select data via select.sh
+Server is shutting down.
