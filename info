@@ -1,8 +1,0 @@
-send the information from client to the server.pipe
-
-server needs to check that the server.pipe actually exists first
-if it does not, create the server.pipe
-
-
-the client.pipe is used to recieve all the information back from the server pipe, and to print this to the screen
-
