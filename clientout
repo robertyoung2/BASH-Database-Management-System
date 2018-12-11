@@ -1,8 +1,0 @@
-OK: database created
-OK: table created
-OK: tuple inserted
-start_result
-c1,c2,c3
-v1,v2,v3
-end_result
-client closing
